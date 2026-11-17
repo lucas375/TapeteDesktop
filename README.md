@@ -2,7 +2,7 @@
 
 Um tapete persa interativo sobre a Mesa do Mac: cobre visualmente os ícones, dobra ao puxar e mantém os arquivos no lugar.
 
-**[Baixar aplicativo v0.8.0 — ZIP para Apple Silicon](https://github.com/lucas375/TapeteDesktop/releases/download/v0.8.0/TapeteDesktop-v0.8.0-macOS-arm64.zip)** · [Todas as versões](https://github.com/lucas375/TapeteDesktop/releases) · [Código-fonte ZIP](https://github.com/lucas375/TapeteDesktop/archive/refs/heads/main.zip)
+**[Baixar aplicativo v0.8.0 — ZIP para Apple Silicon](https://github.com/lucas375/TapeteDesktop/releases/download/v0.8.0/TapeteDesktop-v0.8.0-macOS-arm64.zip)** ·
 
 ## Requisitos e instalação
 
