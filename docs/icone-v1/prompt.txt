@@ -1,0 +1,12 @@
+Use case: stylized-concept.
+Asset type: final standalone macOS application icon for TapeteDesktop.
+Primary request: Create an original, beautifully crafted app icon showing a Persian rug with one corner curling upward, making its flexible cloth motion immediately recognizable.
+Scene/backdrop: one warm ivory macOS-style rounded square tile, centered within a fully transparent square canvas. Tile occupies 88 percent of canvas width and height, with generous clean transparent outer margin.
+Subject: a single rich wine-red Persian rug, slightly diagonal, filling the tile confidently. Broad navy border, restrained gold and cream ornamental medallion, short clean cream fringe on the two short edges. One foreground corner is lifted into a soft, elegant curl showing the cream woven underside. All of the rug and fringe remain within the tile.
+Style/medium: premium native macOS icon illustration, sculpted 3D cloth with satin highlights, crisp stylized ornament, tactile but simplified, friendly and carefully composed. Detailed enough at 1024 pixels, unmistakable silhouette at 32 pixels. A large central medallion rather than dense photographic micro-patterns.
+Lighting/mood: soft upper-left studio light, controlled glossy highlights on the curled fabric, subtle ambient and contact shadow on the tile, polished dimensionality.
+Composition/framing: a single finished icon, square 1024x1024 composition, gentle top-down three-quarter perspective, coherent rectangular rug shape with one clearly visible curl.
+Text: none.
+Constraints: no letters, no app name, no UI screenshots, no badges, no desktop files, no cursor, no mockup board, no multiple icons, no watermark. Real alpha transparency outside the tile; no checkerboard drawn into the image.
+
+Refinamento aplicado com a ferramenta integrada: preservar tapete e composição; limpar o exterior do quadrado marfim e manter transparência real fora da base.
